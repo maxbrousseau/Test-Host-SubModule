@@ -1,0 +1,3 @@
+[submodule "rdm/banane/bateau-sub"]
+	path = rdm/banane/bateau-sub
+	url = https://github.com/maxbrousseau/Submodule-bateau.git
